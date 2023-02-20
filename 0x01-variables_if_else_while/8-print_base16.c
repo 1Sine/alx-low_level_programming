@@ -17,10 +17,10 @@ int main(void)
 	{
 		putchar(i);
 	}
-	for (j = 97; j <= 102; low++)
+	for (j = 97; j <= 102; j++)
 	{
 		putchar(j);
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
