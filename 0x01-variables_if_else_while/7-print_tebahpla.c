@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * Description - Reverse alphabet
- * main - Print out lower and uppercase alphabets
- * Retrun: Always 0 (Success)
+ * main - Entry point
+ * Return: Always 0 (Success)
+ *
  */
 
 int main(void)
