@@ -6,7 +6,7 @@
 
 /**
  * Random number based on last digits
- * Program prints random numbers
+ * Description - Program prints random numbers
  * Return: Always (Success)
  *
  */
