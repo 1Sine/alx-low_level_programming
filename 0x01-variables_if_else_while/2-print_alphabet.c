@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Print out alphabets
+ * Main - Print out alphabets
  * Program prints out alphabets
  * Return:Always (Success)
  *
@@ -13,6 +13,6 @@ int main(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 	putchar(c);
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
