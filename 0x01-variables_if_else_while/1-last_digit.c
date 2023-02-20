@@ -1,17 +1,16 @@
 #include <stdlib.h>
 
 #include <time.h>
-
 #include <stdio.h>
 
 /**
- * Random number based on last digits
- * Description - Program prints random numbers
+ * main - Prints a text according number
  * Return: Always (Success)
  *
  */
 
 int main(void)
+
 {
 	int n, lastd;
 
