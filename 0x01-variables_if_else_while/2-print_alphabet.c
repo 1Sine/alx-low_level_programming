@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * Main - Print out alphabets
- * Program prints out alphabets
+ * Main - Print out alphabetic
  * Return:Always (Success)
  *
  */
 
 int main(void)
+
 {
 	char c;
 
