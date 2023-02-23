@@ -1,1 +1,1 @@
-Alphabet x10
+_putchar
