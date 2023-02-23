@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - prints number 0 to 9
- * Description:Print excluding number  2 and 4
+ * Description: Print excluding number  2 and 4
  * Return: number 0 to 9
  */
 
@@ -10,7 +10,7 @@ void print_most_numbers(void)
 {
 	int x = 0;
 
-	for (; x <= 9; x++);
+	for (; x <= 9; x++)
 	{
 	if (x == 2 || x == 4)
 	{
