@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_line - Draws straight line in terminal
+ * print_line - Draws straight line according to parameter
  * @n: number of lines to draw
  * Return: empty
  */
 
-void print_line(int n);
+void print_line(int n)
 {
 	int x;
 
