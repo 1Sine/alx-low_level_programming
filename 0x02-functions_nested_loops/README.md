@@ -1,1 +1,1 @@
-Check for alphabetic characters
+Print sign of number
