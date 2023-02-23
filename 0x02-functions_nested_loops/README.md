@@ -1,1 +1,1 @@
-Alphabet x10
+Check for lowercase characters
