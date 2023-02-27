@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.hi>
 #include <stdlib.h>
 #include <time.h>
 
@@ -17,7 +17,8 @@ int main(void)
 		password[index] = 33 + rand() % 94;
 		sum += password[index++];
 	}
-	password[index] = '\0\;
+	password[index] = '\0';
+
 	if (sum != 2772)
 	{
 		diff_half1 = (sum - 2772) / 2;
