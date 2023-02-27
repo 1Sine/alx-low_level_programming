@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * _strlen - returns half of a string
- * @s: string
+ * puts_half - Prints half of a string
+ * @str: string
  * Return: length
  */
 void puts_half(char *str)
