@@ -4,7 +4,7 @@
  * @s: string
  * Return: length
  */
-int _strlen(char *s)
+void puts_half(char *str)
 {
 	int longi = 0;
 
